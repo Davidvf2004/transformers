@@ -9,5 +9,4 @@ public class UtilLispList {
         return add(list.tail(), i - 1, elem).cons(list.head());
 
     }
-
 }
